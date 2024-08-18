@@ -1,4 +1,6 @@
-VidVerve
+#VidVerve
+
+
 📖 Overview
 VidVerve is a personalized YouTube video feed platform that brings the latest and most relevant videos to your fingertips. Discover featured content, explore videos by tags, and get a customized feed based on your interests. With an intuitive search bar and easy navigation, VidVerve enhances your video-watching experience.
 
